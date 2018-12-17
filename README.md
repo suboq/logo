@@ -1,9 +1,6 @@
-<div style="text-align:center">
+<p align="center">
+  <img src="./suboq.png" />
+</p>
 
-![Suboq logo](./suboq.png)
-
-# Suboq Organization Logo
-
-Copyright © 2018-present Suboq
-
-</div>
+<h1 align="center">Suboq Organization Logo</h1>
+<p align="center">Copyright © 2018-present Suboq</p>
